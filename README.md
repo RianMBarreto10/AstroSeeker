@@ -31,3 +31,24 @@ O AstroSeeker 2.0, com sua capacidade de analisar eficientemente grandes conjunt
 ## Conclusão
 
 O AstroSeeker 2.0 representa um avanço significativo na detecção automatizada de exoplanetas. Com sua combinação de técnicas avançadas de aprendizado de máquina, pré-processamento de dados, seleção de características e a capacidade de armazenar os resultados de cada execução em um banco de dados, o algoritmo é capaz de analisar eficientemente grandes conjuntos de dados de curvas de luz e identificar potenciais exoplanetas com alta precisão. À medida que mais dados se tornam disponíveis através de futuras missões de telescópios espaciais, ferramentas como o AstroSeeker 2.0 serão cada vez mais importantes na busca contínua por exoplanetas. 🚀
+
+## COMO EXECUTAR?
+### Para executar o programa AstroSeeker 2.0, você precisará instalar as seguintes bibliotecas Python:
+
+#### numpy: Uma biblioteca para computação científica em Python.
+#### lightkurve: Uma biblioteca Python para análise de curvas de luz de telescópios espaciais.
+#### scikit-learn: Uma biblioteca de aprendizado de máquina em Python.
+#### matplotlib: Uma biblioteca de plotagem 2D em Python.
+#### pandas: Uma biblioteca de análise de dados em Python.
+#### seaborn: Uma biblioteca de visualização de dados baseada em matplotlib.
+
+### Você pode instalar todas essas bibliotecas usando o gerenciador de pacotes pip do Python. Abra um terminal e digite o seguinte comando:
+pip install numpy lightkurve scikit-learn matplotlib pandas seaborn
+
+### Se você estiver usando um sistema operacional baseado em Unix (como Linux ou MacOS), você pode precisar usar pip3 em vez de pip:
+pip3 install numpy lightkurve scikit-learn matplotlib pandas seaborn
+
+### Se você estiver usando um ambiente virtual (que é uma boa prática), certifique-se de ativá-lo antes de instalar os pacotes.
+
+### Além disso, você precisará ter o Python instalado em seu sistema para usar esses comandos
+O código está devidamente comentado para melhor compreensão.
